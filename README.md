@@ -1,2 +1,5 @@
-# My projects and achievements
-Here lies previous assignments and projects on Computer Science related courses that I have done. Please check the branches on my projects according to the course
+# My projects
+This repository contains the various projects I have been involved in during my time as a Bachelor's of Computer Science student. Feel free to jump to any branches and check out what I've been up to! If you have any inquries, feel free to hit me up, I'm always up for a chat :)
+
+LinkedIn: https://www.linkedin.com/in/nikadamnikjoharris/
+Email: nikadamdanish@gmail.com
