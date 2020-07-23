@@ -1,6 +1,2 @@
-# My projects
-This repository contains the various projects I have been involved in during my time as a Bachelor's of Computer Science student. Feel free to jump to any branches and check out what I've been up to! If you have any inquries, feel free to hit me up, I'm always up for a chat :)
-
-LinkedIn: https://www.linkedin.com/in/nikadamnikjoharris/
-
-Email: nikadamdanish@gmail.com
+#Application Development
+This branch contains the source code for my very first attempt at making a mobile application. This application sought to automate the leave system at a nearby primary school. Admittedly, the coding is a bit messy, there is definitely room for improvement, but as a first attempt, I think it's okay. We used Android Studio as the IDE. We used Java as the primary programming language. We also used HostStinger to host our application online.
